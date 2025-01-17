@@ -55,7 +55,7 @@ The goal of this project is to implement a compiler for a C-like programming lan
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ErnoMitrovic/compilerbau
    ```
 
 2. Build the project:
